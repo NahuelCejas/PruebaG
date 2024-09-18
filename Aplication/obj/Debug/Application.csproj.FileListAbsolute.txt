@@ -1,0 +1,9 @@
+C:\Users\Giuliana\source\repos\WebApplication1\Aplication\bin\Debug\Aplication.dll
+C:\Users\Giuliana\source\repos\WebApplication1\Aplication\bin\Debug\Aplication.pdb
+C:\Users\Giuliana\source\repos\WebApplication1\Aplication\bin\Debug\Domain.dll
+C:\Users\Giuliana\source\repos\WebApplication1\Aplication\bin\Debug\Domain.pdb
+C:\Users\Giuliana\source\repos\WebApplication1\Aplication\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\Users\Giuliana\source\repos\WebApplication1\Aplication\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\Giuliana\source\repos\WebApplication1\Aplication\obj\Debug\Applicat.44B5EDA2.Up2Date
+C:\Users\Giuliana\source\repos\WebApplication1\Aplication\obj\Debug\Aplication.dll
+C:\Users\Giuliana\source\repos\WebApplication1\Aplication\obj\Debug\Aplication.pdb

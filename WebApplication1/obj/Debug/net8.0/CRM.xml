@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CRM</name>
+    </assembly>
+    <members>
+        <member name="M:CRM.Controllers.CampaignTypeController.GetListCampaignTypes">
+            <response code="200">Success</response>
+            <returns>Success</returns>
+        </member>
+        <member name="M:CRM.Controllers.ClientController.GetListClients">
+            <response code="200">Success</response>    
+        </member>
+        <member name="M:CRM.Controllers.ClientController.CreateClient(Application.Request.ClientsRequest)">
+            <param name="request">The details of the client to be created.</param>
+            <response code="201">Success</response>
+        </member>
+        <member name="M:CRM.Controllers.InteractionTypesController.GetListInteractionTypes">
+            <response code="200">Success</response>
+        </member>
+        <member name="M:CRM.Controllers.ProjectController.GetProjects(System.String,System.Nullable{System.Int32},System.Nullable{System.Int32},System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <param name="name">Optional. Filter by project name.</param>
+            <param name="campaign">Optional. Filter by campaign type ID.</param>
+            <param name="client">Optional. Filter by client ID.</param>
+            <param name="offset">Optional. Skip the specified number of records (used for pagination).</param>
+            <param name="size">Optional. Limit the number of records returned (used for pagination).</param>
+            <response code="200">Success</response>
+        </member>
+        <member name="M:CRM.Controllers.ProjectController.CreateProject(Application.Request.ProjectRequest)">
+            <param name="request">The details of the project to be created.</param>
+            <response code="201">Success</response>    
+        </member>
+        <member name="M:CRM.Controllers.ProjectController.GetProjectById(System.Guid)">
+            <param name="id">The unique identifier of the project.</param>
+            <response code="200">Success</response>
+        </member>
+        <member name="M:CRM.Controllers.ProjectController.AddInteraction(System.Guid,Application.Request.InteractionsRequest)">
+            <param name="id">The unique identifier of the project.</param>
+            <param name="request">The details of the interaction to be added.</param>
+            <response code="201">Success</response>
+        </member>
+        <member name="M:CRM.Controllers.ProjectController.AddTask(System.Guid,Application.Request.TasksRequest)">
+            <param name="id">The unique identifier of the project.</param>
+            <param name="request">The details of the task to be added.</param>
+            <response code="201">Success</response>
+        </member>
+        <member name="M:CRM.Controllers.ProjectController.UpdateTask(System.Guid,Application.Request.TasksRequest)">
+            <param name="id">The unique identifier of the task to be updated.</param>
+            <param name="request">The updated details of the task.</param>
+            <response code="200">Success</response> 
+        </member>
+        <member name="M:CRM.Controllers.TaskStatusController.GetListTaskStatus">
+            <response code="200">Success</response>
+        </member>
+        <member name="M:CRM.Controllers.UserController.GetListUsers">
+            <response code="200">Success</response>
+        </member>
+    </members>
+</doc>

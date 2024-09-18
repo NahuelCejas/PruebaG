@@ -1,0 +1,6 @@
+C:\Users\Giuliana\source\repos\WebApplication1\Domain\bin\Debug\Domain.dll
+C:\Users\Giuliana\source\repos\WebApplication1\Domain\bin\Debug\Domain.pdb
+C:\Users\Giuliana\source\repos\WebApplication1\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Giuliana\source\repos\WebApplication1\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Giuliana\source\repos\WebApplication1\Domain\obj\Debug\Domain.dll
+C:\Users\Giuliana\source\repos\WebApplication1\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,9 @@
+C:\Users\Giuliana\source\repos\WebApplication1\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\Giuliana\source\repos\WebApplication1\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\Giuliana\source\repos\WebApplication1\Infrastructure\bin\Debug\Aplication.dll
+C:\Users\Giuliana\source\repos\WebApplication1\Infrastructure\bin\Debug\Aplication.pdb
+C:\Users\Giuliana\source\repos\WebApplication1\Infrastructure\obj\Debug\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Giuliana\source\repos\WebApplication1\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Giuliana\source\repos\WebApplication1\Infrastructure\obj\Debug\Infrastr.15EFFBFE.Up2Date
+C:\Users\Giuliana\source\repos\WebApplication1\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\Giuliana\source\repos\WebApplication1\Infrastructure\obj\Debug\Infrastructure.pdb
